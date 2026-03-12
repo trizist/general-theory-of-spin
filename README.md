@@ -64,6 +64,6 @@ If gravity is a mechanical downdraft, levitation is achieved by generating a cou
 This work is part of the **Universal Zone** ecosystem.
 *   **Author:** Umar Abbas Siddiquie
 *   **ORCID:** 0009-0008-3968-2252
-*   **Zenodo DOI:** [Pending Archive]
+*   **Zenodo DOI:** 10.5281/zenodo.18988184
 
 *"We must transition from a species subject to cosmic cycles to one that architecturally dictates them."*
