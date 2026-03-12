@@ -4,7 +4,7 @@
 
 ## 📘 Abstract: The Mechanical Foundation
 
-Modern physics has reached a point of diminishing returns, relying on abstract mathematical patches—such as curved spacetime and non-local entanglement—that lack a tangible mechanical substrate. **The General Theory of Spin**, proposed by Umar Abbas Siddiquie, offers a radical paradigm shift: a return to **mechanical clarity**.
+Modern physics has reached a point of diminishing returns, relying on abstract mathematical patches—such as curved spacetime and non-local entanglement—that lack a tangible mechanical substrate. **The General Theory of Spin (GTS)**, proposed by Umar Abbas Siddiquie, offers a radical paradigm shift: a return to **mechanical clarity**.
 
 This framework posits that the universe is not a collection of equations, but a predictable mechanical system built on a single fundamental property: **Spin** (inherent angular velocity). By rejecting the concept of a void, we redefine space as a **Stationary Photon Medium**—a material substance where matter is simply high-density photon clusters.
 
@@ -12,9 +12,21 @@ In this model:
 *   **Gravity** is redefined as environmental pressure (a "downdraft").
 *   **Dark Matter** is identified as an optical illusion caused by periodic star blockage.
 *   **Light** is instantaneous energy transfer through the medium, implying real-time observation of the cosmos.
-*   **Resonance** serves as the universal API for manipulating matter, from molecular filtration to social synchronization.
+*   **Resonance** serves as the universal API for manipulating matter, from molecular filtration (validated at **20.3 Hz**) to social synchronization.
 
 This repository serves as the open-source architectural blueprint for transitioning humanity from passive observers to active **Engineers of the Universe**.
+
+---
+
+## 📄 Official Publication & Citation
+
+This repository hosts the source code, simulations, and visualizations supporting the formal theoretical framework. 
+
+**🔗 Read the Full Peer-Ready Paper:**  
+[A Mechanical Foundation: The General Theory of Spin and the Engineering of a Predictable Universe](https://doi.org/10.5281/zenodo.18988184)
+
+> **Cite this work:**  
+> Siddiquie, U. A. (2026). *A Mechanical Foundation: The General Theory of Spin and the Engineering of a Predictable Universe*. Zenodo. https://doi.org/10.5281/zenodo.18988184
 
 ---
 
@@ -42,12 +54,17 @@ If gravity is a mechanical downdraft, levitation is achieved by generating a cou
 
 ---
 
-##  Repository Structure
+## 📂 Repository Structure
 
-*   `/docs`: Theoretical manifestos and whitepapers (PDF/Markdown).
-*   `/models`: Mathematical derivations of angular velocity and pressure gradients.
-*   `/simulations`: Python scripts modeling resonance effects and spin-field propulsion.
-*   `/experiments`: Data logs from vibration analysis (e.g., 20.3 Hz trials) and acoustic filtering.
+*   **`/docs`**: 
+    *   📄 [Full Research Paper (PDF)](https://doi.org/10.5281/zenodo.18988184) (Hosted on Zenodo)
+    *   `manifesto.md`: Core philosophical arguments.
+    *   `gravity-as-pressure.pdf`: Technical derivations.
+*   **`/models`**: Mathematical derivations of angular velocity and pressure gradients.
+*   **`/simulations`**: 
+    *   `resonance_propulsion.py`: Modeling spin-field propulsion.
+    *   `molecular_efficiency.py`: Simulating the 20.3 Hz effect.
+*   **`/experiments`**: Data logs from vibration analysis and acoustic filtering trials.
 
 ---
 
@@ -59,11 +76,15 @@ If gravity is a mechanical downdraft, levitation is achieved by generating a cou
 
 ---
 
-## 📜 License & Citation
+## 🤝 Contributing
 
-This work is part of the **Universal Zone** ecosystem.
+This project is part of the **Universal Zone** ecosystem. We invite physicists, engineers, and systems architects to review the mechanical models, reproduce the resonance simulations, and contribute to the engineering of a predictable universe.
+
+## 📜 License & Credits
+
 *   **Author:** Umar Abbas Siddiquie
-*   **ORCID:** 0009-0008-3968-2252
-*   **Zenodo DOI:** 10.5281/zenodo.18988184
+*   **ORCID:** [0009-0008-3968-2252](https://orcid.org/0009-0008-3968-2252)
+*   **License:** CC BY 4.0 (Creative Commons Attribution 4.0 International)
+*   **DOI:** [10.5281/zenodo.18988184](https://doi.org/10.5281/zenodo.18988184)
 
 *"We must transition from a species subject to cosmic cycles to one that architecturally dictates them."*
